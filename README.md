@@ -1,1 +1,1 @@
-# E-commerce-project
+# React-E-commerce-Frontend-project
